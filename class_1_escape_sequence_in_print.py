@@ -18,6 +18,4 @@ print('It\'s a sunny day.')
 # Backlash
 print("File path:\n\nUsers\n\tAisha\t\tDocuments")
 print("She\ntalk say\ntime no dey her side o\nsay for her world day dey quick dey dark o\nand I go love am till I die go\nbut our hearts e don turn to stone")
-print("@@\n@@@@\n@@@@@@\n@@@@@@@@\n@@@@@@@@@@\n@@@@@@@@@@@@")
-print("Come\nLet\tus\nreason\ttogether\nand\tmake\tman,\nin\tour\town\timage")
-print("")
+print("      @\t\n     @@@\t\n    @@@@@\t\n   @@@@@@@\t\n  @@@@@@@@@\t\n @@@@@@@@@@@")
